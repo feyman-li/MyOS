@@ -1,2 +1,2 @@
 # MyOS
-My plan to implement an simple OS for learning
+My plan to implement a simple OS for learning
